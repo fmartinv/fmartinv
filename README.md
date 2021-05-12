@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/fervillaf" target="blank"><img align="center" src="" alt="https://codepen.io/fervillaf" height="30" width="40" /></a>
-<a href="https://twitter.com/fernand44775054" target="blank"><img align="center" src="" alt="fernand44775054" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/fernandovillafañe" target="blank"><img align="center" src="" alt="www.linkedin.com/in/fernandovillafañe" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/11902448/fernando-martín" target="blank"><img align="center" src="" alt="users/11902448/fernando-martín" height="30" width="40" /></a>
-<a href="https://instagram.com/fermartinv" target="blank"><img align="center" src="" alt="fermartinv" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/fervillaf" target="blank">https://codepen.io/fervillaf</a>
+<a href="https://twitter.com/fernand44775054" target="blank">fernand44775054</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/fernandovillafañe" target="blank">www.linkedin.com/in/fernandovillafañe</a>
+<a href="https://stackoverflow.com/users/users/11902448/fernando-martín" target="blank">users/11902448/fernando-martín</a>
+<a href="https://instagram.com/fermartinv" target="blank">fermartinv</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
