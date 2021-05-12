@@ -13,11 +13,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/fervillaf" target="blank">https://codepen.io/fervillaf</a>
-<a href="https://twitter.com/fernand44775054" target="blank">fernand44775054</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/fernandovillafañe" target="blank">www.linkedin.com/in/fernandovillafañe</a>
-<a href="https://stackoverflow.com/users/users/11902448/fernando-martín" target="blank">users/11902448/fernando-martín</a>
-<a href="https://instagram.com/fermartinv" target="blank">fermartinv</a>
+<a href="https://codepen.io/https://codepen.io/fervillaf" target="blank">Codepen</a>
+  <hr>
+<a href="https://twitter.com/fernand44775054" target="blank">Twiter</a>
+ <hr>
+<a href="https://linkedin.com/in/www.linkedin.com/in/fernandovillafañe" target="blank">Linkedin</a>
+ <hr>
+<a href="https://stackoverflow.com/users/users/11902448/fernando-martín" target="blank">Stackoverflow</a>
+ <hr>
+<a href="https://instagram.com/fermartinv" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
