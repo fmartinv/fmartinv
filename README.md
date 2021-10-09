@@ -12,7 +12,7 @@
 - 📫 How to reach me **fmartinvillaf@gmail.com**
 
 - ⚡ Fun fact **I´m also a mountaneer**
--![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando&show_icons=true&theme=dark)
+
 
 
 
@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmartinv&show_icons=true&locale=en&layout=compact" alt="fmartinv" /></p>
 
-
+-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando&show_icons=true&theme=dark)
 
 <!---
 fmartinv/fmartinv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
