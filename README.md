@@ -3,7 +3,7 @@
 <h5 align="center">I love the pure code in CSS, now learning more about javascript with the idea of master the language because "If you rule javascript you rule all" (the frameworks). Actually learning REACT but the first approach was with ANGULAR.</h5>
 <h5 align= "center">"Be comfortable with the uncomfortably", I think that quote resume the journey of a self taught developer and thats make me glad beacuse every triumph and progress you make solving a problems really feel amazing</h5>
 
-- 🔭 I’m currently working as a **Freelancer**
+- I’m currently working as a **Freelancer**💻
 
 - 🌱 I’m currently learning **React and Angular**
 
@@ -12,6 +12,9 @@
 - 📫 How to reach me **fmartinvillaf@gmail.com**
 
 - ⚡ Fun fact **I´m also a mountaneer**
+-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando&show_icons=true&theme=dark)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
