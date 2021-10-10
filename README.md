@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fernandovcontact.netlify.app/](https://fernandovcontact.netlify.app/)
 
-- 💬 Ask me about **React, ANgular**
+- 💬 Ask me about **React, Angular**
 
 - 📫 How to reach me **fmartinvillaf@gmail.com**
 
