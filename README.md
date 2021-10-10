@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **any front end project**
 
-- 👨‍💻 All of my projects are available at [https://fernandovcontact.netlify.app/](https://fernandovcontact.netlify.app/)
-
 - 💬 Ask me about **React, Angular**
 
 - 📫 How to reach me **fmartinvillaf@gmail.com**
@@ -41,3 +39,16 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmartinv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
+
+**Javascript**
+I´m proud of making progress in my learning about javascript, when I was beginning almost three years ago mi real process and serious learning of development, I didn´t understand everything about javascript, but now I have a better knowledge about, arrays methods like, filter, map, slice, pop, and shift, also how to manage objects and create one object from a constructor function. 
+I struggle a lot to understand  this process but with " proof of work" I made improvements in my understanding.
+
+
+
+
+
+
