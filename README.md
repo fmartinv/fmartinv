@@ -30,7 +30,8 @@
 <a href="https://linkedin.com/in/fernandovillafane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandovillafane" height="30" width="40" /></a>
 <a href="https://codesandbox.com/fmartinv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fmartinv" height="30" width="40" /></a>
 </p>
-<h3 align="left"> About me:</h3>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmartinv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 <h3 align="left">Languages and Tools:</h3>
