@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **fmartinvillaf@gmail.com**
 
-- 📄 Know about my experiences ["Be comfortable with the uncomfortably", I think that quote resume the journey of a self taught developer and thats make me glad beacuse every triumph and progress you make solving a problems really feel amazing]("Be comfortable with the uncomfortably", I think that quote resume the journey of a self taught developer and thats make me glad beacuse every triumph and progress you make solving a problems really feel amazing)
+- 📄 Know about my experiences "Be comfortable with the uncomfortably", I think that quote resume the journey of a self taught developer and thats make me glad beacuse every triumph and progress you make solving a problems really feel amazing.
+- I´m improving my knowledge  about javascript with the idea of master the language because "If you rule javascript you rule all" (the frameworks).
+- My goal´s in the future be part of an amazing project in dev!
 
 - ⚡ Fun fact **I´m also a mountaneer and love play guitar**
 
