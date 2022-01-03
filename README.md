@@ -47,8 +47,7 @@
 I´m proud of making progress in my learning about javascript, when I was beginning almost three years ago mi real process and serious learning of development, I didn´t understand everything about javascript, but now I have a better knowledge about, arrays methods like, filter, map, slice, pop, and shift, also how to manage objects and create one object from a constructor function. 
 I struggle a lot to understand  this process but with " proof of work" I made improvements in my understanding.
 
-**REACT**
-I'm so happy to be learning the library most used know, it's great and faster for develop a small project and also a big project it is amazing, reading the docs help you a lot to understand how to manage components, hooks, and all the limitless effects to make your work stand up and easy to maintain for dev team.
+
 
 **Frecodecamp**
 Recently finished de Responsive path certification, my impressions about are so much quality of exercises and the good practices for developing a responsive accessibility site.
