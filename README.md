@@ -42,23 +42,25 @@
 
 
 <h3 align="left">Career Objetives:</h3>
-
+<p align="left">
 I would love to be in a team where I can show my hard and soft skills learned in the last years of study and also spend more time being mentored by experienced senior developers.
 
 With a passion for both personal growth and software development, I usually attend online courses and lectures about codding, in that line I paid all year codeacademy subscription.
 
-Ready to apply my passion for coding to a talented engineering team to develop quality.
+Ready to apply my passion for coding to a talented engineering team to develop quality.</p>
 
-**Javascript**
+<h5 align="left">Javascript</h5>
+<p align="left">
 I´m proud of making progress in my learning about javascript, when I was beginning almost three years ago mi real process and serious learning of development, I didn´t understand everything about javascript, but now I have a better knowledge about, arrays methods like, filter, map, slice, pop, and shift, also how to manage objects and create one object from a constructor function. 
 
-I struggle a lot to understand  this process but with " proof of work" I made improvements in my understanding.
+I struggle a lot to understand  this process but with " proof of work" I made improvements in my understanding.</p>
 
 
 
-**Frecodecamp**
+<h5 align="left">Freecodecamp</h5>
+<p align="left">
 Recently finished de Responsive path certification, my impressions about are so much quality of exercises and the good practices for developing a responsive accessibility site.
-Can't wait to use it in my future projects!.
+Can't wait to use it in my future projects!.</p>
 
 
 
