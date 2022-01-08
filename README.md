@@ -55,6 +55,13 @@ I´m proud of making progress in my learning about javascript, when I was beginn
 
 I struggle a lot to understand  this process but with " proof of work" I made improvements in my understanding.</p>
 
+<h5 align="left">React</h5>
+<p align="left">
+From the first day learning react in my learning path, I immediately fell in love with this framework, if I have a lot to learn, but in these steps I already realize how useful it is for team development, how easy and customizable it is.
+
+I dream of being able to learn more and use it in big projects in the future.</p>
+
+
 
 
 <h5 align="left">Freecodecamp</h5>
