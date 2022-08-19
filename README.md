@@ -1,6 +1,6 @@
 
 -<h1 align="center">Hi 👋, I'm Fernando Villafañe</h1>
-<h3 align="center">A passionate in progress front end developer</h3>
+<h3 align="center">A passionate  Frontend Developer| React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmartinv&label=Profile%20views&color=0e75b6&style=flat" alt="fmartinv" /> </p>
 
@@ -57,9 +57,9 @@ I struggle a lot to understand  this process but with " proof of work" I made im
 
 <h5 align="left">React</h5>
 <p align="left">
-From the first day learning react in my learning path, I immediately fell in love with this framework, if I have a lot to learn, but in these steps I already realize how useful it is for team development, how easy and customizable it is.
+From the first day learning react in my learning path, I immediately fell in love with this framework, I already realize how useful it is for team development, how easy and customizable it is.
 
-I dream of being able to learn more and use it in big projects in the future.</p>
+I dream of being in more awesome projects in the future</p>
 
 
 
