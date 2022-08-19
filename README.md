@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **react proyects**
 
-- 🌱 I’m currently learning **Javascript, React and Saas**
+- 🌱 I’m currently learning **React(advance),Typescript, Cypress **
 
 - 👯 I’m looking to collaborate on **any front end project**
 
@@ -15,8 +15,8 @@
 - 📫 How to reach me **fmartinvillaf@gmail.com**
 
 - 📄 Know about my experiences "Be comfortable with the uncomfortably", I think that quote resume the journey of a self taught developer and thats make me glad beacuse every triumph and progress you make solving a problems really feel amazing.
-- I´m improving my knowledge  about javascript with the idea of master the language because "If you rule javascript you rule all" (the frameworks).
-- My goal´s in the future be part of an amazing project in dev!
+- I´m improving my knowledge  about Typescript, advance React and learning about Cypress testing with the idea of master the language because "If you rule javascript you rule all" (the frameworks).
+- My goal´s to Keep working on awesome projects and learning all!
 
 - ⚡ Fun fact **I´m also a mountaneer and love play guitar**
 
