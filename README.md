@@ -43,7 +43,7 @@
 
 <h3 align="left">Career Objetives:</h3>
 <p align="left">
-I would love to be in a team where I can show my hard and soft skills learned in the last years of study and also spend more time being mentored by experienced senior developers.
+I would love to be in a team where I can show my hard and soft skills learned in the past years of study and also spend more time learning more skill to improve my work.
 
 With a passion for both personal growth and software development, I usually attend online courses and lectures about codding, in that line I paid all year codeacademy subscription.
 
@@ -64,10 +64,7 @@ I dream of being in more awesome projects in the future</p>
 
 
 
-<h5 align="left">Freecodecamp</h5>
-<p align="left">
-Recently finished de Responsive path certification, my impressions about are so much quality of exercises and the good practices for developing a responsive accessibility site.
-Can't wait to use it in my future projects!.</p>
+
 
 
 
