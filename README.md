@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmartinv&label=Profile%20views&color=0e75b6&style=flat" alt="fmartinv" /> </p>
 
-- 🔭 I’m currently working on **react proyects**
+- 🔭 I’m currently working on **REACT, E2E TESTING**
 
-- 🌱 I’m currently learning **React(advance),Typescript, Cypress **
+- 🌱 I’m currently learning ** GQL, NODE js, NEXT js  **
 
 - 👯 I’m looking to collaborate on **any front end project**
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React, Playwright, typescript**
 
 - 📫 How to reach me **fmartinvillaf@gmail.com**
 
 - 📄 Know about my experiences "Be comfortable with the uncomfortably", I think that quote resume the journey of a self taught developer and thats make me glad beacuse every triumph and progress you make solving a problems really feel amazing.
-- I´m improving my knowledge  about Typescript, advance React and learning about Cypress testing with the idea of master the language because "If you rule javascript you rule all" (the frameworks).
-- My goal´s to Keep working on awesome projects and learning all!
+- I´m improving my knowledge  about Typescript, advance React and learning about NODE JS, GQL and NEXT js .
+- My goal´s to Keep working on awesome projects!
 
 - ⚡ Fun fact **I´m also a mountaneer and love play guitar**
 
@@ -43,11 +43,8 @@
 
 <h3 align="left">Career Objetives:</h3>
 <p align="left">
-I would love to be in a team where I can show my hard and soft skills learned in the past years of study and also spend more time learning more skill to improve my work.
-
-With a passion for both personal growth and software development, I usually attend online courses and lectures about codding, in that line I paid all year codeacademy subscription.
-
-Ready to apply my passion for coding to a talented engineering team to develop quality.</p>
+In this moment espending more time learning how to improve my job speed and quality, with AI tools, also learning a lot about CI pipelines and PLAYWRIGHT e2e testing, NODE js and GQL to have a global view of any web app.
+</p>
 
 <h5 align="left">Javascript</h5>
 <p align="left">
