@@ -4,21 +4,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmartinv&label=Profile%20views&color=0e75b6&style=flat" alt="fmartinv" /> </p>
 
-- 🔭 I’m currently working on **REACT, E2E TESTING, JEST, TYPESCRIPT**
+- 🔭 I’m currently working on **PLAYWRIGHT, E2E TESTING, BDD, TYPESCRIPT**
 
-- 🌱 I’m currently learning ** GQL, NODE js, NEXT js  **
+- 🌱 I’m currently learning ** C# **
 
 - 👯 I’m looking to collaborate on **SAAS inovate projects**
 
-- 💬 Ask me about **React, Playwright, typescript**
+- 💬 Ask me about **Playwright, typescript**
 
 - 📫 How to reach me **fmartinvillaf@gmail.com**
 
-- 📄 Know about my experiences I ‘m a frontend developer, from Argentina, based in Spain  with more than two years of experience working in react framework also  in
-technologies such as JavaScript, React-Redux, Playwright, Jest, CSS, Node and HTML.
+- 📄 Know about my experiences I ‘m a QA specialist, from Argentina, based in Alicante  Spain  with two years of experience working as qa and also with experience as frontend developer with React and Typescript.
 
  
-- My goal´s to Keep working an grow personal and profesional as a Frontend dev in advance to be in some point a fullStack engineer!
+- My goal´s to Keep working an grow personal and profesional as QA!
 
 - ⚡ Fun fact **I'm also a mountaineer and love to play guitar and passionate about cycling.**
 
@@ -45,24 +44,27 @@ technologies such as JavaScript, React-Redux, Playwright, Jest, CSS, Node and HT
 
 <h3 align="left">Career Objetives:</h3>
 <p align="left">
-In this moment espending more time learning how to improve my job speed and quality, with AI tools, also learning a lot about CI pipelines and PLAYWRIGHT e2e testing, NODE js and GQL to have a global view of any web app.
+In this moment espending more time learning how to improve my job speed and quality, with AI tools, also learning a lot about CI pipelines and PLAYWRIGHT e2e testing, NODE js  to have a global view of any web app.
 </p>
 
 <h5 align="left">Typescript</h5>
 <p align="left">
-Requirements in work journey of  development led me to explore TypeScript . Integrating it into my daily work has been instrumental in enhancing my code quality and developer experience. Initially, when I first started using TypeScript, it felt like learning a new language alongside JavaScript. However, through continuous practice and real-world application in my current role, I've gained a strong grasp of its benefits, including improved type safety, better code organization, and increased confidence in maintaining complex projects. This journey highlights the importance of embracing new technologies and continuously learning to elevate my development skills..
+My professional journey started as a frontend developer, but evolving project requirements sparked my transition into Quality Assurance. Along the way, I discovered the value of TypeScript and integrated it into my daily work. What first felt like learning a new language quickly became a key tool for ensuring type safety, code consistency, and long-term maintainability.
+
+Today, I’m also working with C#, applying the same principles of quality engineering to strengthen backend systems, improve test automation, and support reliable software delivery.
+
+As a QA professional, I view technologies like TypeScript and C# not just as developer tools, but as ways to reduce defects early, improve test coverage, and build more reliable systems. By continuously applying them in real-world scenarios, I’ve strengthened my ability to identify risks, prevent bugs, and ensure higher product quality.
+
+This journey highlights my belief that quality is built into the development process, and that embracing new technologies and continuous learning is essential to delivering dependable software.
 </p>
 
 <h5 align="left">Javascript</h5>
 <p align="left">
-As a passionate frontend developer, I'm thrilled with the progress I've made in conquering JavaScript. fourth years ago, when I embarked on my serious development journey, JavaScript was like a foreign language. However, by immersing myself in hands-on projects, I've built a solid foundation in crucial areas like arrays (mastering methods like filter, map, slice, pop, and shift) and object creation using constructor functions. Now, I feel comfortable applying this acquired knowledge to bring my development ideas to life.
+As a QA professional with a frontend background, I’ve seen firsthand how important it is to deeply understand the technologies I test. Four years ago, when I began my serious development journey, JavaScript felt like a foreign language. Through consistent practice and hands-on projects, I built a strong foundation in areas like arrays (filter, map, slice, pop, shift) and object creation with constructor functions.
+
+This developer knowledge has become an asset in my QA work—helping me design better test scenarios, identify edge cases, and anticipate potential defects earlier in the lifecycle. By combining my technical foundation with a quality-first mindset, I ensure that what we deliver is not just functional, but also reliable, maintainable, and user-focused.
 </p>
 
-<h5 align="left">React</h5>
-<p align="left">
-From the first day learning react in my learning path, I immediately fell in love with this framework, I already realize how useful it is for team development, how easy and customizable it is.
-
-I dream of being in more awesome projects in the future</p>
 
 
 
