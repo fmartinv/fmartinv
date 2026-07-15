@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Playwright, typescript**
 
-- 📫 How to reach me **fmartinvillaf@gmail.com**
+- 📫 How to reach me **villafane.fernando.m@gmail.com**
 
 - 📄 Know about my experiences I ‘m a QA specialist, from Argentina, based in Alicante  Spain  with two years of experience working as qa and also with experience as frontend developer with React and Typescript.
 
