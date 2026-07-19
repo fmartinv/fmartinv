@@ -44,7 +44,7 @@
 
 <h3 align="left">Career Objetives:</h3>
 <p align="left">
-In this moment espending more time learning how to improve my job speed and quality, with AI tools, also learning a lot about CI pipelines and PLAYWRIGHT e2e testing, NODE js  to have a global view of any web app.
+In this moment espending more time learning how to improve my job speed and quality, with AI tools, also learning a lot about CI pipelines.
 </p>
 
 <h5 align="left">Typescript</h5>
