@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **villafane.fernando.m@gmail.com**
 
-- 📄 Know about my experiences I ‘m a QA specialist, from Argentina, based in Alicante  Spain  with two years of experience working as qa and also with experience as frontend developer with React and Typescript.
+- 📄 QA Automation Engineer from Argentina, based in Alicante, Spain. Experienced in Playwright, C#, TypeScript, API testing, CI/CD, and performance testing with K6. Former Frontend Developer with React and TypeScript experience. Enthusiastic about Shift Left testing, automation, and continuous improvement.
 
  
 - My goal´s to Keep working an grow personal and profesional as QA!
